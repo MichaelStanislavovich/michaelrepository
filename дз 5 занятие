@@ -1,1 +1,54 @@
-file:///C:/Users/MichailM/OneDrive/Документы/vscode/htmlPCzxc.html
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE-edge"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Мой первый сайт</title> 
+    <link rel="stylesheet" href="style.css"> 
+</head> 
+<body> 
+    <h1>Мой первый сайт!</h1> 
+    <p class="par3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit dolore non fugit quam cum. Asperiores illum, molestias distinctio deserunt perferendis tempora quaerat adipisci deleniti ex repellat suscipit repudiandae sequi quos.</p>
+    <h2>Заголовок 2 уровня</h2> 
+    <p class="par1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi maiores delectus asperiores dolorem voluptatum quas, eligendi sint similique recusandae nostrum perspiciatis nisi blanditiis aliquid officia sit voluptates, deserunt magni qui.</p> 
+    <p class="par2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi maiores delectus asperiores dolorem voluptatum quas, eligendi sint similique recusandae nostrum perspiciatis nisi blanditiis aliquid officia sit voluptates, deserunt magni qui.</p> 
+    <h3>Заголовок 3 уровня</h3> 
+    <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam numquam quaerat nulla delectus voluptate quidem tenetur, dolore quas obcaecati nisi vero rerum, nesciunt odit a mollitia, ipsum ut enim cumque!</span> 
+    <span>ZXCGhoul dzzzzzzzzzzzzz</span> 
+    <h4>Заголовок 4 уровня</h4> 
+    <div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ullam laudantium reiciendis ipsam consectetur commodi architecto nulla libero consequuntur. Nostrum iure, quibusdam debitis tenetur unde autem aperiam. Maiores, in libero!</div> 
+    <div>CHecccc</div> 
+    <h5>Заголовок 5 уровня</h5> 
+    <ol> 
+        <li>First</li> 
+        <li>SECOnD</li> 
+        <li>THIRD</li> 
+    </ol> 
+    <h6>Заголовок 6 уровня</h6> 
+    <ul> 
+        <li>First</li> 
+        <li>SECOnD</li> 
+        <li>THIRD</li> 
+    </ul> 
+    <img src= "C:\Users\MichailM\OneDrive\Изображения\maxresdefault.jpg">
+</body> 
+</html>
+
+css:
+.par1 { 
+    background: palevioletred; 
+    font-size: 16pt; 
+    font-family: Arial, Helvetica, sans-serif; 
+} 
+.par2 { 
+    background: paleturquoise; 
+    font-size: 30pt; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    margin-left: 60px; 
+}
+.par3  { 
+    font-size: 24px;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: 1px 1px 2px green;
