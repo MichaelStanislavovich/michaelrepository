@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+</head>
+<body>
+    <a href="https://getbootstrap.com">Изучение фреймворка Бутстрап</a>
+    <a href="pg2.html" target="_blank">Перейти на новую страничку</a>
+    <form action=""> 
+        <h1 class="lead">Привет мер манера крутит мир</h1>
+    
+        <label for="field">Просто текстовое поле</label>
+        <input class="form-control form-control-lg" id= 'field' type="text">
+
+        <label for="field"></label>
+        <label for="story">Многостроковая</label>
+        <textarea id="story" name="story" rows="5" cols="33">Давай, напиши что то, если не.....</textarea>
+
+        class="card" style="width: 18rem;">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h1>Example heading <span class="badge bg-secondary">New</span></h1>
+        <h2>Example heading <span class="badge bg-secondary">New</span></h2>
+        <h3>Example heading <span class="badge bg-secondary">New</span></h3>
+        <h4>Example heading <span class="badge bg-secondary">New</span></h4>
+        <h5>Example heading <span class="badge bg-secondary">New</span></h5>
+        <h6>Example heading <span class="badge bg-secondary">New</span></h6>
+                    
+
+        <label for="check-box">Чекбокс</label>
+        <input id='check-box' type="checkbox">
+
+        <label for="parol">пароль</label>
+        <input class="form-control form-control-sm" id="parol" type="password">
+
+
+        <button type="button" class="btn btn-dark">sebd</button>
+    
+    </form>
+    <script scr ="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous"></script> ></script>
+</body>
+</html>
